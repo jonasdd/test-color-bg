@@ -29,4 +29,4 @@ var head = document.head
   scriptLink.src = inlineScript
   head.appendChild(scriptLink)
 ```
-Il ne vous reste ensuite qu'à glisser/déposer le lien généré dans vos favoris.
+Il ne vous reste ensuite qu'à glisser/déposer le lien généré dans vos favoris et à cliquer dessus pour l'activer.
