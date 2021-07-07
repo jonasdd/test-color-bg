@@ -39,7 +39,7 @@ all.forEach((element) => {
       test(element).backgroundColor === "rgba(0, 0, 0, 0)"
     ) {
       console.log("bg not set", element, test(element).backgroundColor);
-      element.style.border = "2px solid yellow";
+      element.style.border = "2px solid red";
     }
   }
   if (
