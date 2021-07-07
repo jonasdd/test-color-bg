@@ -29,7 +29,7 @@ Veuillez décocher :
 
 Copier/coller le code ci-dessous dans le générateur :
 ```javascript
-var inlineScript = "https://raw.githack.com/jonasdd/test-color-bg/master/script.js";
+var inlineScript = "https://raw.githack.com/jonasdd/test-color-bg/main/script.js";
 
 var head = document.head
   , scriptLink = document.createElement('script')
